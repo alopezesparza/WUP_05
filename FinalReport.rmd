@@ -67,17 +67,13 @@ ggplot(charlie, aes(x = infected, fill = treatment)) +
   theme_minimal()
 
 ```
-
+people who ended up getting aids about 25% of these have taken the drug and about 75% had taken placebo. the overall that didnt get anything didnt take the drug and the other half took the placebo.  
 
 ### Numerical Descriptive Results 
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
-```{r}
-table2 <- xtabs(~infected + treatment, data=charlie)
-rowPerc(table2)
-colPerc(table2)
-```
-people eho ended up getting aids about 25% of these have taken the drug and about 75% had taken placebo. the overall that didnt get anything didnt take the drug and the other half took the placebo.  
+
+
 
 ## Inferential Results
 
