@@ -88,7 +88,9 @@ chisqtestGC(table2)
 ```
 
 
-there's a big statistical difference and the p value of 1.2420000000 in this result. although only 25% of people got the treatment and 75% got the placebo, those who had the disease in the 25% had succesful results.
+there's a big statistical difference and the p value of 1.2420000000 in this result. although only 25% of people got the treatment and 75% got the placebo, those who had the disease in the 25% had successful results.  
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+for this assignment we had to complete the datacamp assignment called data manipulation with dyplyr prior to starting the write up. when finished we opened up posit cloud to put in our forked link and create our workspace. we then put in our credentials changed the name and date and committed that. we then created a code to create our data using "charlie" as our data. afterwards we got our data and opened a helper file cat_cat which is where we got our first graph code from  the options it had for us. we used chat GPT to create a second code for us to try but some were unsuccessful with the data so they removed their code from chat gpt. we explained the graphs and committed. we got out numerical results from the cat_cat file and the same with our inferential code. we compared and wrote up a summary for both. we wrote up our conclussion and commited    
